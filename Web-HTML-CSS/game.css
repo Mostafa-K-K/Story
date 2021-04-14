@@ -1,5 +1,5 @@
 .bg {
-    background: url(pictures/pic1.png) no-repeat center center fixed;
+    background: url(https://raw.githubusercontent.com/Mostafa-K-K/Story/main/Web-HTML-CSS/pictures/pic1.png) no-repeat center center fixed;
     -webkit-background-size: cover;
     -moz-background-size: cover;
     -o-background-size: cover;
@@ -7,7 +7,7 @@
 }
 
 .bg2 {
-    background: url(../pictures/pic2.png) no-repeat center center fixed;
+    background: url(https://raw.githubusercontent.com/Mostafa-K-K/Story/main/Web-HTML-CSS/pictures/pic2.png) no-repeat center center fixed;
     -webkit-background-size: cover;
     -moz-background-size: cover;
     -o-background-size: cover;
@@ -15,7 +15,7 @@
 }
 
 .bg3 {
-    background: url(../pictures/pic3.png) no-repeat center center fixed;
+    background: url(https://raw.githubusercontent.com/Mostafa-K-K/Story/main/Web-HTML-CSS/pictures/pic3.png) no-repeat center center fixed;
     -webkit-background-size: cover;
     -moz-background-size: cover;
     -o-background-size: cover;
@@ -23,7 +23,7 @@
 }
 
 .bg4 {
-    background: url(../pictures/pic4.png) no-repeat center center fixed;
+    background: url(https://raw.githubusercontent.com/Mostafa-K-K/Story/main/Web-HTML-CSS/pictures/pic4.png) no-repeat center center fixed;
     -webkit-background-size: cover;
     -moz-background-size: cover;
     -o-background-size: cover;
@@ -31,7 +31,7 @@
 }
 
 .bg5 {
-    background: url(../pictures/pic5.png) no-repeat center center fixed;
+    background: url(https://raw.githubusercontent.com/Mostafa-K-K/Story/main/Web-HTML-CSS/pictures/pic5.png) no-repeat center center fixed;
     -webkit-background-size: cover;
     -moz-background-size: cover;
     -o-background-size: cover;
